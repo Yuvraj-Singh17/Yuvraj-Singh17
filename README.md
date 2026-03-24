@@ -1,3 +1,17 @@
+# 💫 Hi 👋, I'm Yuvraj Singh
+**A passionate Full Stack Web Developer**
+
+Email Me 👉 ✉️ **yuvivivshu17@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on: MAC-OS Project**
+- 🌱 **I’m currently learning: NodeJS** 
+- 💬 **Ask me about:Full Stack Development, JavaScript,ReactJS** 
+- 📫 **How to reach me: yuvivishu17@gmail.com**
+- ⚡ **Fun fact: I Love Tech and Tech Love Me**
+
+
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvrajsingh170806) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yuvivishu17@gmail.com)
@@ -23,8 +37,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Yuvraj-Singh17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 ---
 
